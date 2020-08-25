@@ -29,15 +29,20 @@ var addTwoNumbers = function (l1, l2) {
 
     let revSumArr = sumArr.reverse()
 
-    let list = []
+    let list = new ListNode()
 
     revSumArr.map((i, index) => {
         if (revSumArr[index + 1]) {
-            list.push(new ListNode(i, revSumArr[index + 1]))
+            list.val = i
+            list.next = revSumArr[index + 1]
+            list = list.next
         } else {
-            list.push(new ListNode(i, undefined))
+            list.val = i
+            list.next = undefined
         }
     })
 
     console.log(list)
+
+    return new ListNode(list)
 };
