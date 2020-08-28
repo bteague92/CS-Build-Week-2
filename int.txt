@@ -1,0 +1,57 @@
+1. Tell me a little bit about yourself?
+    -Well I've bounced around between a few different career paths (personal trainer, truck driver, management, logistics, delivery driver) but none of them really satisfied my creative craving. I started looking into other career paths with more of a creative touch and settled on Web Development. I studied on my own for a while but didnt have the structured learning I prefered so I signed up for Lambda Schools Full Stack Web Development program. A year later and Ive finished their program, gained experience as a TL, SL, and Project Lead. Now I'm looking forward onto greener pastures and trying to find the right job for me.
+
+2. What kind of work environment are you looking for in the next opportunity you take?
+    - I'm hoping to find a position that allows me to work with a professional, diverse team of engineers/designers and appreciates the creativity of it's employees.
+
+3. What are your strengths and weaknesses as a developer?
+    -My biggest strength by far is my ability to very quickly learn whatever is needed to solve a problem. My biggest weakness by far is my inability to organize any notes that I take.
+
+4. Tell me about a group project that you are passionate about?
+    - When I was in the Labs portion of the Lambda Curriculum I was on a team of 5 developers working on a project for a non-profit based in Mozambique. Their message was powerful and their mission was so profound that I couldn't help growing to care a lot for the outcome. The company had a mission to go out to these villages in Mozambique and survey, encourage, document, and improve the lives of the villagers. Their only problem was they had to do it all by paper and the documentation/data accumulation process took about 2 weeks total since everything had to be shipped back to America. Our mission was to build them an app, that worked offline since there was no cell signal, that allowed them to very quickly and efficiently survey and document these interactions with the villages while creating tangible data that allowed them to measure changes that they were making in the communities. 
+
+5. Where do you see yourself in 3-5 years?
+    -In 3-5 years I see myself working for a company, as a developer, that is helping make the world a better place. Maybe it will be a company that hires me, maybe it will be one that I start myself.
+
+6. How would your co-workers describe you?  
+    - My coworkers would describe me as motivated, efficient, communicative, and hard working
+
+7. Tell me about a time where you and your teammates did not agree?
+    - When I worked in logistics at a BMW plant in SC, we had a big problem with people jumping off their equipment before it was fully stopped, which was a big safety hazard. I tried confronting the teammates doing it directly but they blew me off. Eventually I had to go to the director of safety and convince them that our entire group needed to be talked to about the importance of workplace safety, especially concerning 2000-3000 lb peices of machinery. A few people still kept doing it, but most of my team got the message and quit jumping off before it was stopped.
+
+8. Why should we hire you?
+    - You should hire me because if you don't, whoever does will have a competitive edge over you.
+
+9. What's your dream job?
+    - My dream job would be to own my own company that was making significant changes in the community that allowed me to work remotely and travel
+
+10. Can you explain why you changed career paths?
+    - I changed career paths because none of the other jobs I've worked really allowed me to be creative. I love creating things and solving problems. Most of my other jobs just felt like I was punching the clock, doing the same things, then punching the clock again.
+
+11. How do you deal with pressure or stressful situations?
+    - Pressure and stress usually motivate me to do whatever needs to be done to make the pressure and stress go away. I don't think its affects my performance in any way except making me work a little faster/harder.
+
+12. What would your first 30, 60, or 90 days look like in this role?
+    - First 30 days would be mostly me getting use to the team/environment, next 30 days would be getting up to speed and making sure I'm contributing effectively, and the next 30 days would be me trying to accel and be a top performer within the company
+
+13. What are your salary requirements?
+    - I understand I'm considered a Jr Developer in the eyes of a hiring manager, so I have no expectations. Of course I'm not going to take 10k-20k per year, but I am open to negotiation and will to be paid like a Jr. Developer
+
+14. Give an example of a goal you reached and tell me how you achieved it
+    - One time at band camp...nah Im just kidding. One time I was working on a build week project(an app that helped match employers to employees) where I was supposed to be soley responsible for the backend. We were suppose to have 4 React devs, but 3 of them dropped out at the last second. Due to the lack of people, me and the 1 React dev left set a goal to finish the app anyways. We had to work extra hard, put in extra hours, but in the end we were able to work together to get a functioning app done in the alloted time, despite losing half our team on day 1.
+
+15. Have you ever made a mistake? How did you handle it?
+    - I was working on the Frontend of a project with another less-experienced dev, and put in like 4 hours work of work toward building out a ton of Redux. When the other dev started needing some of the state, he let me know he didnt know redux and wasnt comfortable using it yet. I took that as a misstep on my part because I didnt ask him if he would be able to work with it before I started, so I spent a few hours converting all of my redux into ContextAPI, which was easier for him to understand and grasp in the short amount of time we had. I personally think making mistakes is a good thing, because I tend to only make the same mistake once. So, by making mistakes now, I ensure that less mistakes will be made in the future.
+
+16. When you worked on multiple projects how did you prioritize?
+    - 
+
+17. Have you had to convince a team to utilize a tool/language they weren't thrilled about? How did you do it?
+    - 
+
+18. Have you ever had a project that had to change drastically while it was in progress?
+Why? How did you do it?
+    - 
+
+19. Tell me about a major setback you've had. How did you deal with it?
+    - 
